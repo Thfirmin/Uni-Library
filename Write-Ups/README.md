@@ -1,4 +1,4 @@
-# WRITE_UPS
+# WRITE-UPS
 
 ## Languages
 
